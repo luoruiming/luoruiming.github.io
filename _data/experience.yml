@@ -4,7 +4,7 @@
   job_title: Algorithm Engineer (Intern)
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
-    I worked for Division of Cutting-edge Technology. My job was to solve pathfinding problem of multi AGVs in the warehouse environment via Reinforcement Learning, including:
+    I worked for Division of Cutting-edge Technology, HRI. My job was to solve pathfinding problem of multi AGVs in the warehouse environment via Reinforcement Learning including:
     - Conducted a survey on multi-agenet pathfinding
-    - Created a simulation environment for testing pathfinding problem of multi AGVs 
-    - Implemented the distributed version of Evolution Strategies algorithm proposed by OpenAI
+    - Created a simulation environment for testing pathfinding of multi AGVs 
+    - Implemented a distributed version of Evolution Strategies algorithm proposed by OpenAI
