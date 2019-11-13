@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Ruiming Luo
-title: CS Ph.D. Student
+title: Ph.D. Student
 email: joeluo@zju.edu.cn
 website: https://luoruiming.github.io/
 
@@ -17,7 +17,7 @@ linkedin_username: luoruiming
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ruiming Luo and I'm a Ph.D. student at College of Computer Science and Technology, Zhejiang University. My research interests include lower limb exoskeleton, reinforcement learning in Robotics.
+  Hi, my name is Ruiming Luo and I'm a Ph.D. student at College of Computer Science and Technology, Zhejiang University. My research interests include lower limb exoskeleton, deep learning application and reinforcement learning in Robotics.
 
 # Projects Section
 # projects_title: Projects
@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in robotics and reinforcement learning, some of my other interests and hobbies are:
+  Alongside my interests in research and coding, some of my other interests and hobbies are:
    - Basketball
    - Music
    - Hiking

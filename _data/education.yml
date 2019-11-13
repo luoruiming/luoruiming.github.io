@@ -1,16 +1,18 @@
 - layout: left
-  name: Xiamen University
-  dates: 2012 - 2016
-  qualification: BSc Cognitive Science
-  quote: >
-    Established in 1921 by renowned patriotic overseas Chinese leader Mr. Tan Kah Kee, Xiamen University (XMU) is the first university founded by an overseas Chinese in the history of modern Chinese education.
-  description: | # this will include new lines to allow paragraphs
-    During my time at XMU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-- layout: left
   name: Zhejiang University
   dates: 2016 - present
   qualification: Ph.D. Computer Science
+  adviser: Prof. Shouqian Sun
+  quote: >
+    Zhejiang University (ZJU) is one of China’s top higher education institutions, as well as one of its oldest; its roots can be traced back to 1897 and the founding of the Qiushi Academy.
+  description: | # this will include new lines to allow paragraphs
+    During my time at ZJU I spent most of time on the project "The Design and Research on Human-Machine Collaboration Based Lower Limb Exoskeleton" (funded by NSFC, No.91748127). 
+
+- layout: left
+  name: Xiamen University
+  dates: 2012 - 2016
+  qualification: B.Eng. Cognitive Science
+  adviser: Prof. Min Jiang
   quote: >
     Established in 1921 by renowned patriotic overseas Chinese leader Mr. Tan Kah Kee, Xiamen University (XMU) is the first university founded by an overseas Chinese in the history of modern Chinese education.
   description: | # this will include new lines to allow paragraphs
