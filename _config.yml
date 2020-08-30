@@ -17,7 +17,7 @@ linkedin_username: luoruiming
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ruiming Luo and I'm a Ph.D. student at College of Computer Science and Technology, Zhejiang University. My research interests include lower limb exoskeleton, deep learning application and reinforcement learning in Robotics.
+  Hi, my name is Ruiming Luo and I'm a Ph.D. student at College of Computer Science and Technology, Zhejiang University. My research interests include lower limb exoskeleton and reinforcement learning in human musculoskeletal model simulation.
 
 # Projects Section
 # projects_title: Projects
