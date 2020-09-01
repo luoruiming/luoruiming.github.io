@@ -9,12 +9,12 @@ email: joeluo@zju.edu.cn
 website: https://luoruiming.github.io/
 
 # Social links
-github_username:  luoruiming
+github_username: luoruiming
 linkedin_username: luoruiming
 # csdn_username: 
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ruiming Luo and I'm a Ph.D. student at College of Computer Science and Technology, Zhejiang University. My research interests include lower limb exoskeleton and reinforcement learning in human musculoskeletal model simulation.
@@ -29,15 +29,15 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in research and coding, some of my other interests and hobbies are:
-   - Basketball
-   - Music
-   - Hiking
+   - Making Robots
+   - Sport (Gym, basketball, hiking)
+   - Writing
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
