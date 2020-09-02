@@ -1,6 +1,6 @@
 - layout: left
   company: Hikvision
-  job_title: Algorithm Engineer (Internship)
+  job_title: Algorithm Engineer (Intern)
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
     I worked for Division of Cutting-edge Technology, Hikvision Research Institude. My job was to solve pathfinding problem of multi AGVs in the warehouse environment via Reinforcement Learning including:
@@ -8,8 +8,9 @@
     - Created a simulation environment for testing pathfinding of multi AGVs 
     - Implemented a distributed version of Evolution Strategies algorithm proposed by OpenAI
 
+- layout:left
   company: Tencent 
-    job_title: Technology Application Researcher (Internship)
-    dates: April 2020 - August 2020
-    description: | # this will include new lines to allow paragraphs
-      I worked for R&D team of IEG. My job was to implement physcis-based character animation synthesis.
+  job_title: Technology Application Researcher (Intern)
+  ates: April 2020 - August 2020
+  description: | # this will include new lines to allow paragraphs
+    I worked for R&D team of Interactive Entertainment Group. My job was to implement physcis-based character animation synthesis.
