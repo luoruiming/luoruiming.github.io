@@ -8,7 +8,7 @@
     - Created a simulation environment for testing pathfinding of multi AGVs 
     - Implemented a distributed version of Evolution Strategies algorithm proposed by OpenAI
 
-- layout:left
+- layout: left
   company: Tencent 
   job_title: Technology Application Researcher (Intern)
   ates: April 2020 - August 2020
